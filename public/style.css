@@ -1,0 +1,53 @@
+.clearfix{
+    clear: both;
+}
+.backgroud{
+    background-image: url(img/pngfuel.com\ \(1\).png);
+}
+.navbar{
+    height: 50px;
+    background-color: rgba(124, 98, 78, 0.815);
+}
+.Pro{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(138, 66, 83);
+}
+.carousel-item {
+    height: 500x;
+    width: 500px;
+}
+.table{
+    margin-top: 100px;
+    width: 350px;
+    float: left; 
+}
+.myself{
+    margin-left: 149px;
+    margin-top: 100px;
+    width: 550px;
+    height: 550px;
+    float: left; 
+}
+.icon-bar{
+    float: left; 
+    width: 353px;
+    height: 75px;
+    margin-top: 520px;
+  
+}
+.icon-bar a{
+    float: left;
+    text-align: center;
+    font-size: 25px;
+    padding: 25px;
+    color: rgb(0, 0, 0);  
+    background-color:rgba(233, 80, 116, 0.897);
+}
+.icon-bar .fb{
+    color: darkolivegreen;
+}
+.icon-bar a:hover{
+    background-color: rgb(226, 123, 27);
+}
